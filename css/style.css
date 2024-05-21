@@ -59,7 +59,7 @@ body {
     width: 25%;
     height: 25px;
     border-radius: 10px;
-    background-color: rgb(7, 7, 7);
+    background-color: rgb(13, 13, 13);
     color: white;
     border: none;
     margin-left: 69%;
@@ -67,9 +67,5 @@ body {
 }
 
 #remover-concluidas:hover {
-    background-color: rgb(10, 243, 10)
+    background-color: rgb(239, 2, 2)
 }
-
-#remover-concluidas:active {
-    background-color: rgb(202, 101, 0);
-} 
